@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-09)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7384845`](https://github.com/stdlib-js/stdlib/commit/7384845755aa80345bd5f7ae28af1ddd3a501340) - **docs:** update return annotations to use ndarray instance notation for `stats/min-by` [(#9106)](https://github.com/stdlib-js/stdlib/pull/9106) _(by Pratik)_
 -   [`01a7d5e`](https://github.com/stdlib-js/stdlib/commit/01a7d5eae3a7c6c244382ff2c2c00c19cc5acb68) - **docs:** add missing semicolons _(by Athan Reines)_
 -   [`006274e`](https://github.com/stdlib-js/stdlib/commit/006274e27badde01275e5daa80e8caeab301a787) - **test:** fix strides _(by Athan Reines)_
 -   [`2d2c81b`](https://github.com/stdlib-js/stdlib/commit/2d2c81b60826f00bffc81269099cc64b7177ecdd) - **docs:** update parameter name _(by Athan Reines)_
@@ -41,10 +42,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Pratik
 
 </section>
 
