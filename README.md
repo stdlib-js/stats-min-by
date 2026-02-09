@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-min-by@deno/mod.js';
+import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-min-by@v0.1.1-deno/mod.js';
 ```
 
 #### minBy( x\[, options], clbk\[, thisArg] )
@@ -263,7 +263,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-d
 import getDType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@deno/mod.js';
-import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-min-by@deno/mod.js';
+import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-min-by@v0.1.1-deno/mod.js';
 
 // Define a function for generating an object having a random value:
 function random() {
